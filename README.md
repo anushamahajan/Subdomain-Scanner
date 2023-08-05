@@ -7,5 +7,7 @@ This project is a custom subdomain scanner developed using Python. The aim of th
 ![whatsapp com subdomains](https://github.com/anushamahajan/Subdomain-Scanner/assets/116106599/5eb7eb6f-7ee5-46ae-bbf4-ea5df73f1fa3)
 
 I used tkinter library to make an interactive interface.
+![Output](https://github.com/anushamahajan/Subdomain-Scanner/assets/116106599/116b2cee-1057-462c-a303-13593350d148)
+
 
 
