@@ -10,6 +10,8 @@ I used tkinter library to make an interactive interface. The code will show an e
 
 
 ![Output](https://github.com/anushamahajan/Subdomain-Scanner/assets/116106599/116b2cee-1057-462c-a303-13593350d148)
+![error](https://github.com/anushamahajan/Subdomain-Scanner/assets/116106599/0720415e-687c-4d12-8810-5d94ed836687)
+
 
 
 
